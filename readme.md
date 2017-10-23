@@ -11,6 +11,10 @@
 
 ![Alt text](https://github.com/Aldriiiiin/Shopping-Cart/blob/master/Screenshots/checkout.jpg)
 
+![Alt text](https://github.com/Aldriiiiin/Shopping-Cart/blob/master/Screenshots/remove.jpg)
+
+
+
 
 
 
