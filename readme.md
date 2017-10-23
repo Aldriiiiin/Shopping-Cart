@@ -7,4 +7,9 @@
 
 ![Alt text](https://github.com/Aldriiiiin/Shopping-Cart/blob/master/Screenshots/addtocart.jpg)
 
+![Alt text](https://github.com/Aldriiiiin/Shopping-Cart/blob/master/Screenshots/your%20cart.jpg)
+
+
+
+
 
