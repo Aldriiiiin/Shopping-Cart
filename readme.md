@@ -3,4 +3,4 @@
 
 
 
-![Alt text](/https://github.com/Aldriiiiin/Shopping-Cart/blob/master/Screenshots/home.png)
+![Alt text](https://github.com/Aldriiiiin/Shopping-Cart/blob/master/Screenshots/home.png)
