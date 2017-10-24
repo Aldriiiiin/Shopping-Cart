@@ -1,5 +1,5 @@
 
-# Laravel Shopping Cart Example
+# Laravel Shopping Cart  
 
 
 
